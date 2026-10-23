@@ -1,5 +1,5 @@
 'use strict';
-const VERSION='morning-v1';
+const VERSION='morning-v2';
 const SHELL=VERSION+'-shell', IMAGES=VERSION+'-images';
 const ROOT=new URL('./',self.location.href);
 const ASSETS=['./','./index.html','./styles.css','./app.js','./config.js','./initial-data.json','./manifest.webmanifest','./assets/icon.svg','./assets/icon-192.png','./assets/icon-512.png','./assets/icon-maskable.png'];
